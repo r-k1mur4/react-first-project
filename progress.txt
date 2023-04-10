@@ -1,0 +1,77 @@
+React
+
+
+■□━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━□■
+　　　　　　　　 	        	環境構築　　　　　　　　
+■□━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━□■
+
+
+■ ターミナル
+----------------------------------------------------
+[Mac14]
+cd /Users/r.kimura/Documents/Coding/JavaScript/React/react_tutorial/first_project
+
+[Mac16]
+cd /Users/ar-ryuki.a.kimura/Private/react
+
+npx create-react-app "project-name"
+
+npm start
+
+
+※ ctrl + cでサーバ停止
+
+
+
+■ ブラウザ
+----------------------------------------------------
+http://localhost:3000/　にアクセス
+※ポートが埋まっている場合は別番号3004など
+
+
+
+■ 新しくプロジェクトを作り直す
+----------------------------------------------------
+
+create-react-app "project-name"
+
+
+
+■□━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━□■
+		command　　　　　　　　
+■□━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━□■
+
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd first-project
+  npm start
+
+
+
+
+
+
+所感：
+2023/04/09　fifth-project　立ち上げ
+じゃけぇのUdemy講座 43.まで完了
+
+
+
+参考：React.js チュートリアル[超入門] #01 プロジェクトの始め方
+https://note.com/natsukingdom/n/n2dd88d531f22
+
+
