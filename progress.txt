@@ -71,6 +71,7 @@ We suggest that you begin by typing:
 
 
 2023/04/10　TEST 社用PCから
+git->複数PCから共同管理できるようにした
 
 参考：React.js チュートリアル[超入門] #01 プロジェクトの始め方
 https://note.com/natsukingdom/n/n2dd88d531f22
