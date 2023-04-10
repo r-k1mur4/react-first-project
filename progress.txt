@@ -70,6 +70,7 @@ We suggest that you begin by typing:
 じゃけぇのUdemy講座 43.まで完了
 
 
+2023/04/10　TEST 社用PCから
 
 参考：React.js チュートリアル[超入門] #01 プロジェクトの始め方
 https://note.com/natsukingdom/n/n2dd88d531f22
