@@ -71,6 +71,7 @@ We suggest that you begin by typing:
 
 
 2023/04/10　TEST 社用PCから
+git->複数PCから共同管理できるようにした
 
 コンフリクト引き起こすテキスト16inch
 
